@@ -18,6 +18,7 @@
 ## 🖼️ Captura de pantalla
 
 <img src="https://user-images.githubusercontent.com/00000000/device-monitor-preview.png" alt="Pantalla principal" width="300" />
+<img width="203" height="440" alt="image" src="https://github.com/user-attachments/assets/4fb70ec5-2e74-4bc5-9216-d4ea9f9dbcc4" />
 
 ---
 
