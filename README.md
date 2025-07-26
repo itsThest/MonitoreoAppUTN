@@ -45,9 +45,7 @@ MonitoreoApp/
 ├── build.gradle.kts
 └── README.md
 
-yaml
-Copiar
-Editar
+
 
 ---
 
