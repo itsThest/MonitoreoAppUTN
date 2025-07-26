@@ -69,6 +69,9 @@ Asegúrate de declarar y solicitar los siguientes permisos:
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+<img width="203" height="440" alt="image" src="https://github.com/user-attachments/assets/fba1e940-c314-4729-b670-b4392cb752e7" />
+
 👨‍💻 Desarrollador
 🧑‍💻 Bixmarck Rodríguez
 Estudiante de Ingeniería en Software - Universidad Técnica del Norte
